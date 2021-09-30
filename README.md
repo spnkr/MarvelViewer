@@ -8,6 +8,9 @@ Put your Marvel API key, `ts` value, and `hash` value in `application(_:didFinis
 Importer.shared.setApiAuthentication(apiKey: "api key", ts: "1", hash: "foo")
 ```
 
+### Documentation
+[https://spnkr.github.io/MarvelViewer/](https://spnkr.github.io/MarvelViewer/)
+
 ### Requirements
 - Xcode 13
 - iOS 15
