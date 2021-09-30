@@ -1,0 +1,3759 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2021 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2021 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2021 MARVEL</a>",
+    "etag": "ca293a509d64952fb9a49cbb80185ebf8fbeb667",
+    "data":
+    {
+        "offset": 0,
+        "limit": 100,
+        "total": 16,
+        "count": 16,
+        "results":
+        [
+            {
+                "id": 1011172,
+                "name": "Susan Delgado",
+                "description": "",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011172",
+                "comics":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011172/comics",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "series":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011172/series",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "stories":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011172/stories",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "events":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011172/events",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2885/susan_delgado?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1011172/susan_delgado?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1011477,
+                "name": "Surtur",
+                "description": "Surtur was an enormous fiery demon native to the dimension of Asgard. Possessed of evil intelligence and vast power, Surtur was one of the major elemental forces of evil that the Asgardians feared. He was a mystical being whose existence predated that of Odin himself. Over 1,000 feet tall and wielding a huge fiery sword, he was once imprisoned by Odin at the Earth's core. Along with Ymir the Frost Giant and the Midgard Serpent, Surtur was the most powerful of Asgard's native enemies.\r\n\r\nSurtur has been freed from imprisonment a few times over the years. The first time the Asgardian god of mischief Loki set Surtur free to wreak havok on Earth. The second time Surtur was set free by Marduk of the Sons of Satannish, a cult of human demon-worshippers. Surtur was banished to some unnamed netherworld at the end of that encounter. He appeared, yet again, in what was to be one of the Asgardians greatest battles against Surtur. Surtur hatched a plan to lure Asgard's armies to Earth leaving the city vulnerable to attack. He crossed Bifrost with his newly forged Twilight blade believing Asgard to be defenseless; Odin, Thor and Loki were there to make a last stand to defeat Surtur. Their victory did not come easy though, as Odin fell along with Surtur into a dimensional rift.\r\n\r\nSurtur apparently died along with the Asgardians during Ragnarok.",
+                "modified": "2021-08-13T00:16:44-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011477",
+                "comics":
+                {
+                    "available": 15,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011477/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39520",
+                            "name": "Essential Thor Vol. 5 (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41056",
+                            "name": "Journey Into Mystery (2011) #626"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36560",
+                            "name": "Journey Into Mystery (2011) #627"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36555",
+                            "name": "Journey Into Mystery (2011) #629"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37683",
+                            "name": "Journey Into Mystery (2011) #631"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40567",
+                            "name": "Journey Into Mystery (2011) #636"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62185",
+                            "name": "Loki: Journey into Mystery by Kieron Gillen (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18661",
+                            "name": "Thor (1998) #37"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11504",
+                            "name": "Thor (1966) #176"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11505",
+                            "name": "Thor (1966) #177"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11674",
+                            "name": "Thor (1966) #346"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11679",
+                            "name": "Thor (1966) #351"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29474",
+                            "name": "Thor by Walter Simonson (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1165",
+                            "name": "THOR VISIONARIES: WALTER SIMONSON VOL. 2 TPB [NEW PRINTING] (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11908",
+                            "name": "Universe X (2000) #4"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "series":
+                {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011477/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14475",
+                            "name": "Essential Thor Vol. 5 (2011 - Present)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14764",
+                            "name": "Journey Into Mystery (2011 - 2013)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22809",
+                            "name": "Loki: Journey into Mystery by Kieron Gillen (2017)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/581",
+                            "name": "Thor (1998 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2083",
+                            "name": "Thor (1966 - 1996)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10491",
+                            "name": "Thor by Walter Simonson (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/223",
+                            "name": "THOR VISIONARIES: WALTER SIMONSON VOL. 2 TPB [NEW PRINTING] (2009 - 2003)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2085",
+                            "name": "Universe X (2000 - 2001)"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "stories":
+                {
+                    "available": 20,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011477/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/16628",
+                            "name": "Thor (1966) #176",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/16630",
+                            "name": "Thor (1966) #177",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/16990",
+                            "name": "The Wild Hunt",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17000",
+                            "name": "Ragnarok and Roll, Too!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25643",
+                            "name": "Universe X (2000) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25644",
+                            "name": "Interior #25644",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/39988",
+                            "name": "Thor (1998) #37",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64101",
+                            "name": "Cover #64101",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81134",
+                            "name": "Journey Into Mystery (2011) #629",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81135",
+                            "name": "Interior #81135",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81144",
+                            "name": "Journey Into Mystery (2011) #627",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81145",
+                            "name": "Interior #81145",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/83282",
+                            "name": "Journey Into Mystery (2011) #631",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/83540",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89661",
+                            "name": "Essential Thor Vol. 5 (2011) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/91956",
+                            "name": "Journey Into Mystery (2011) #636",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/91957",
+                            "name": "Interior #91957",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92974",
+                            "name": "Journey Into Mystery (2011) #626",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/94425",
+                            "name": "Journey Into Mystery (2011) #626",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/134755",
+                            "name": "cover from Loki: Journey Into Mystery by Kieron Gillen Omnibus (2017)",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011477/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                            "name": "Fear Itself"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+                            "name": "Shattered Heroes"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1011477/surtur?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1011477/surtur?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1010695,
+                "name": "Surge",
+                "description": "Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate.",
+                "modified": "2011-10-19T10:49:27-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010695",
+                "comics":
+                {
+                    "available": 22,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39737",
+                            "name": "Magneto: Not a Hero (2011) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/126",
+                            "name": "New Mutants (2003) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/131",
+                            "name": "New Mutants (2003) #11"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/419",
+                            "name": "New Mutants (2003) #12"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5799",
+                            "name": "New Mutants Classic Vol. 2 (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4440",
+                            "name": "New X-Men (2004) #28"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17223",
+                            "name": "New X-Men (2004) #44"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17224",
+                            "name": "New X-Men (2004) #44 (Variant)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/654",
+                            "name": "New X-Men (2004) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/711",
+                            "name": "New X-Men (2004) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/533",
+                            "name": "New X-Men (2004) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/755",
+                            "name": "New X-Men (2004) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/910",
+                            "name": "New X-Men (2004) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/80",
+                            "name": "New X-Men (2004) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1483",
+                            "name": "New X-Men (2004) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1568",
+                            "name": "New X-Men (2004) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1657",
+                            "name": "New X-Men (2004) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/70288",
+                            "name": "New X-Men: Childhood's End - The Complete Collection (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5636",
+                            "name": "New X-Men: Childhood's End Vol. 3 (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24173",
+                            "name": "Runaways (2008) #10"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "series":
+                {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14683",
+                            "name": "Magneto: Not a Hero (2011 - 2012)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/563",
+                            "name": "New Mutants (2003 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1764",
+                            "name": "New Mutants Classic Vol. 2 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/749",
+                            "name": "New X-Men (2004 - 2008)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/25674",
+                            "name": "New X-Men: Childhood's End - The Complete Collection (2019)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1668",
+                            "name": "New X-Men: Childhood's End Vol. 3 (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5338",
+                            "name": "Runaways (2008 - 2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+                            "name": "Uncanny X-Men (1963 - 2011)"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "stories":
+                {
+                    "available": 31,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1888",
+                            "name": "New Mutants (2003) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1889",
+                            "name": "Interior #1889",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1901",
+                            "name": "New Mutants (2003) #12",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1902",
+                            "name": "Interior #1902",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2155",
+                            "name": "New Mutants (2003) #11",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2156",
+                            "name": "Interior #2156",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3355",
+                            "name": "New X-Men (2004) #7",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3356",
+                            "name": "1 of 3 Haunting at Xaviers",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3357",
+                            "name": "New X-Men (2004) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3358",
+                            "name": "Interior #3358",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3359",
+                            "name": "New X-Men (2004) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3360",
+                            "name": "Interior #3360",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3361",
+                            "name": "New X-Men (2004) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3362",
+                            "name": "Interior #3362",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3363",
+                            "name": "New X-Men (2004) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3367",
+                            "name": "New X-Men (2004) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3368",
+                            "name": "\"CHOOSING SIDES\" PART 6 (OF 6) The battle over the fate of young Kevin Ford turns explosive as the New Mutants go head-to-head w",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3369",
+                            "name": "New X-Men (2004) #8",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3370",
+                            "name": "2 of 3 Haunting at Xaviers",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3371",
+                            "name": "New X-Men (2004) #9",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+                            "name": "Messiah CompleX"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2267/surge?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Surge_%28Noriko_Ashida%29?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1010695/surge?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1011160,
+                "name": "Supreme Intelligence",
+                "description": "The Supreme Intelligence is an organic, computer construct, created by the Kree to act as their supreme leader.",
+                "modified": "2013-12-17T17:37:00-0500",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/52b0d1eb0ca73",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011160",
+                "comics":
+                {
+                    "available": 15,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17556",
+                            "name": "Avengers (1998) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17518",
+                            "name": "Avengers (1998) #35"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1311",
+                            "name": "Avengers Assemble (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5844",
+                            "name": "Avengers Assemble Vol. 4 (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8030",
+                            "name": "Captain Marvel (1968) #41"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8032",
+                            "name": "Captain Marvel (1968) #43"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8033",
+                            "name": "Captain Marvel (1968) #44"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8035",
+                            "name": "Captain Marvel (1968) #46"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15208",
+                            "name": "Silver Surfer (1987) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15219",
+                            "name": "Silver Surfer (1987) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15107",
+                            "name": "Silver Surfer (1987) #11"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11910",
+                            "name": "Universe X (2000) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11911",
+                            "name": "Universe X (2000) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11912",
+                            "name": "Universe X (2000) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/11913",
+                            "name": "Universe X (2000) #9"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "series":
+                {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+                            "name": "Avengers (1998 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+                            "name": "Avengers Assemble (2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1816",
+                            "name": "Avengers Assemble Vol. 4 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2000",
+                            "name": "Captain Marvel (1968 - 1979)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2288",
+                            "name": "Silver Surfer (1987 - 1998)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2085",
+                            "name": "Universe X (2000 - 2001)"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories":
+                {
+                    "available": 17,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18294",
+                            "name": "Cover #18294",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18298",
+                            "name": "Cover #18298",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18300",
+                            "name": "Cover #18300",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18304",
+                            "name": "Cover #18304",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25647",
+                            "name": "Universe X (2000) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25648",
+                            "name": "Interior #25648",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25649",
+                            "name": "Universe X (2000) #7",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25650",
+                            "name": "Interior #25650",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25651",
+                            "name": "Universe X (2000) #8",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25652",
+                            "name": "Interior #25652",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25653",
+                            "name": "Universe X (2000) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/25654",
+                            "name": "Interior #25654",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/30683",
+                            "name": "Cover #30683",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/30886",
+                            "name": "Cover #30886",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/30908",
+                            "name": "Cover #30908",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37398",
+                            "name": "Interstellar Intrigues",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37487",
+                            "name": "The Court Martial of Carol Danvers",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 17
+                },
+                "events":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/events",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2265/supreme_intelligence?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Supreme_Intelligence?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1011160/supreme_intelligence?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1011232,
+                "name": "Supernaut",
+                "description": "Sergeant Milo Fields was recruited for the Order and regained the use of his legs after his nervous system intermingled with that of Aralune.",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c002f048e0b6",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011232",
+                "comics":
+                {
+                    "available": 11,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011232/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16005",
+                            "name": "The Order (2007) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16188",
+                            "name": "The Order (2007) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16594",
+                            "name": "The Order (2007) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16595",
+                            "name": "The Order (2007) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17283",
+                            "name": "The Order (2007) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17416",
+                            "name": "The Order (2007) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17651",
+                            "name": "The Order (2007) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20695",
+                            "name": "The Order (2007) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20889",
+                            "name": "The Order (2007) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21020",
+                            "name": "The Order (2007) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20734",
+                            "name": "The Order Vol. 1: The Next Right Thing (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 11
+                },
+                "series":
+                {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011232/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2537",
+                            "name": "The Order (2007 - 2008)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3877",
+                            "name": "The Order Vol. 1: The Next Right Thing (2008)"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories":
+                {
+                    "available": 19,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011232/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32683",
+                            "name": "The Order (2007) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32684",
+                            "name": "12XLS 1 of 12; THE INITIATIVE BANNER",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33066",
+                            "name": "The Order (2007) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33067",
+                            "name": "12XLS 2 of 12; THE INITIATIVE BANNER",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33467",
+                            "name": "The Order (2007) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33468",
+                            "name": "THE INITIATIVE BANNER",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33469",
+                            "name": "The Order (2007) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33470",
+                            "name": "THE INITIATIVE BANNER",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36218",
+                            "name": "The Order (2007) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36219",
+                            "name": "Interior #36219",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36517",
+                            "name": "The Order (2007) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36518",
+                            "name": "Interior #36518",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36947",
+                            "name": "The Order (2007) #7",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36948",
+                            "name": "Interior #36948",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44384",
+                            "name": "The Order (2007) #8",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44385",
+                            "name": "1 of 5",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44731",
+                            "name": "2 of 5",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45741",
+                            "name": "The Order (2007) #10",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45742",
+                            "name": "3 of 5",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 19
+                },
+                "events":
+                {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011232/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+                            "name": "Initiative"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2264/supernaut?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Supernaut?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1011232/supernaut?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1009639,
+                "name": "Super-Skrull",
+                "description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.",
+                "modified": "2013-11-01T16:51:40-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009639",
+                "comics":
+                {
+                    "available": 31,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009639/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5655",
+                            "name": "Annihilation (2006) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17271",
+                            "name": "Annihilation: Conquest (2007) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17405",
+                            "name": "Annihilation: Conquest (2007) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17645",
+                            "name": "Annihilation: Conquest (2007) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4110",
+                            "name": "Annihilation: Super-Skrull (2006) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4220",
+                            "name": "Annihilation: Super-Skrull (2006) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4317",
+                            "name": "Annihilation: Super-Skrull (2006) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4472",
+                            "name": "Annihilation: Super-Skrull (2006) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4822",
+                            "name": "Annihilation: The Nova Corps (2006) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21366",
+                            "name": "Avengers: The Initiative (2007) #14"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24571",
+                            "name": "Avengers: The Initiative (2007) #14 (SPOTLIGHT VARIANT)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17168",
+                            "name": "Captain Marvel (1968) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17169",
+                            "name": "Captain Marvel (1968) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20561",
+                            "name": "Captain Marvel (2000) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20562",
+                            "name": "Captain Marvel (2000) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/68295",
+                            "name": "Doctor Strange (2018) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13139",
+                            "name": "Fantastic Four (1961) #32"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15557",
+                            "name": "Fantastic Four (1998) #37"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8707",
+                            "name": "Fantastic Four Annual (1963) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15906",
+                            "name": "Fantastic Four Omnibus Vol. 2 (Hardcover)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "series":
+                {
+                    "available": 22,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009639/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3613",
+                            "name": "Annihilation (2006 - 2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3061",
+                            "name": "Annihilation: Conquest (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1080",
+                            "name": "Annihilation: Super-Skrull (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1115",
+                            "name": "Annihilation: The Nova Corps (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+                            "name": "Avengers (1996 - 1997)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+                            "name": "Avengers: The Initiative (2007 - 2010)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/690",
+                            "name": "Captain Marvel (2000 - 2002)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2000",
+                            "name": "Captain Marvel (1968 - 1979)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24296",
+                            "name": "Doctor Strange (2018 - 2019)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+                            "name": "Fantastic Four (1961 - 1998)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/421",
+                            "name": "Fantastic Four (1998 - 2012)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2012",
+                            "name": "Fantastic Four Annual (1963 - 1994)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2435",
+                            "name": "Fantastic Four Omnibus Vol. 2 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+                            "name": "Incredible Hulk (1962 - 1999)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24300",
+                            "name": "Infinity Countdown Prime (2018)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/977",
+                            "name": "Irredeemable Ant-Man (2006 - 2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2423",
+                            "name": "Irredeemable Ant-Man Vol. 1: Low-Life (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20839",
+                            "name": "Moon Girl and Devil Dinosaur (2015 - 2019)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/27601",
+                            "name": "Ms. Marvel Annual (2019)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23530",
+                            "name": "Namor: The Sub-Mariner (1990 - 1995)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories":
+                {
+                    "available": 35,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009639/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5496",
+                            "name": "Irredeemable Ant-Man (2006) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5941",
+                            "name": "Annihilation: Super-Skrull (2006) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5943",
+                            "name": "Annihilation: Super-Skrull (2006) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5945",
+                            "name": "Annihilation: Super-Skrull (2006) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5964",
+                            "name": "5 of 6 - Annihilation",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6149",
+                            "name": "Cover #6149",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/12927",
+                            "name": "Fantastic Four (1961) #32",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/12928",
+                            "name": "Death of a Hero!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15346",
+                            "name": "Fantastic Four Annual (1963) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15347",
+                            "name": "Bedlam at the Baxter Builing",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18897",
+                            "name": "Incredible Hulk (1962) #374",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18898",
+                            "name": "No Autographs",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18899",
+                            "name": "Incredible Hulk (1962) #375",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18900",
+                            "name": "Night of the Living Skrulls",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/31747",
+                            "name": "Fantastic Four (1998) #37",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/31748",
+                            "name": "There Is No Business ...",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36194",
+                            "name": "Annihilation: Conquest (2007) #1 - Int",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36494",
+                            "name": "Annihilation: Conquest (2007) #2 - Int",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36934",
+                            "name": "Annihilation: Conquest (2007) #3 - Int",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37685",
+                            "name": "World War 3 Part 2 of 4",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009639/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/229",
+                            "name": "Annihilation"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/293",
+                            "name": "Annihilation: Conquest"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+                            "name": "Secret Invasion"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2260/super-skrull?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Super-Skrull?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009639/super-skrull?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1011022,
+                "name": "Super-Adaptoid",
+                "description": "The Super-Adaptoid was created by the organization known as A.I.M. using a piece of the Cosmic Cube.",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c00325af279c",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011022",
+                "comics":
+                {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011022/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17763",
+                            "name": "Avengers (1996) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7164",
+                            "name": "Avengers (1963) #290"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5619",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5945",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6195",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5705",
+                            "name": "Heroes Reborn: Avengers (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9606",
+                            "name": "Iron Man (1968) #51"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39530",
+                            "name": "Marvel Masterworks: The X-Men Vol. 3 DM Variant TPB (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39531",
+                            "name": "Marvel Masterworks: The X-Men Vol. 3 TPB (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12529",
+                            "name": "Uncanny X-Men (1963) #77"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12476",
+                            "name": "Uncanny X-Men (1963) #29"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45681",
+                            "name": "X-Men (2010) #39"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "series":
+                {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011022/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                            "name": "Avengers (1963 - 1996)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+                            "name": "Avengers (1996 - 1997)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/937",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006 - 2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1813",
+                            "name": "Heroes Reborn: Avengers (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+                            "name": "Iron Man (1968 - 1996)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14485",
+                            "name": "Marvel Masterworks: The X-Men Vol. 3 DM Variant TPB (2011 - Present)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14486",
+                            "name": "Marvel Masterworks: The X-Men Vol. 3 TPB (2011 - Present)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+                            "name": "Uncanny X-Men (1963 - 2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9906",
+                            "name": "X-Men (2010 - 2013)"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "stories":
+                {
+                    "available": 15,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011022/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5181",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5182",
+                            "name": "3 of 8 - 8XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7748",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006) #7",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7750",
+                            "name": "Avengers: Earth's Mightiest Heroes II (2006) #8",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/14867",
+                            "name": "AVENGERS (1963) #290",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15505",
+                            "name": "Uncanny X-Men (1963) #29",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15642",
+                            "name": "Cover #15642",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34446",
+                            "name": "Cover #34446",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34448",
+                            "name": "The Super-Adaptoid!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37703",
+                            "name": "Avengers (1996) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37704",
+                            "name": "Shadowbox",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89682",
+                            "name": "Interior #89682",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89684",
+                            "name": "Interior #89684",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/94972",
+                            "name": "Iron Man (1968) #51",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/102827",
+                            "name": "X-Men (2010) #39",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "events":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011022/events",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2256/super-adaptoid?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Super-Adaptoid?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1011022/super-adaptoid?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1015280,
+                "name": "Super Hero Squad",
+                "description": "",
+                "modified": "2011-04-25T19:09:38-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1015280",
+                "comics":
+                {
+                    "available": 16,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015280/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29775",
+                            "name": "Super Hero Squad (2010) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29779",
+                            "name": "Super Hero Squad (2010) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29780",
+                            "name": "Super Hero Squad (2010) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29781",
+                            "name": "Super Hero Squad (2010) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29782",
+                            "name": "Super Hero Squad (2010) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29783",
+                            "name": "Super Hero Squad (2010) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29784",
+                            "name": "Super Hero Squad (2010) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29785",
+                            "name": "Super Hero Squad (2010) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29786",
+                            "name": "Super Hero Squad (2010) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29776",
+                            "name": "Super Hero Squad (2010) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29777",
+                            "name": "Super Hero Squad (2010) #11"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29778",
+                            "name": "Super Hero Squad (2010) #12"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38939",
+                            "name": "Super Hero Squad MMO Magazine (2011) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38186",
+                            "name": "Super Hero Squad Spectacular (2011) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38305",
+                            "name": "Super Hero Squad Vol. 3 GN-TPB (Graphic Novel)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38306",
+                            "name": "SUPER HERO SQUAD: SUPER HERO SAFARI GN-TPB (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 16
+                },
+                "series":
+                {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015280/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9193",
+                            "name": "Super Hero Squad (2010)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14057",
+                            "name": "Super Hero Squad MMO Magazine (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13747",
+                            "name": "Super Hero Squad Spectacular (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13806",
+                            "name": "Super Hero Squad Vol. 3 GN-TPB (2011 - Present)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13807",
+                            "name": "SUPER HERO SQUAD: SUPER HERO SAFARI GN-TPB (2011 - Present)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "stories":
+                {
+                    "available": 30,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015280/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64696",
+                            "name": "Cover #64696",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64697",
+                            "name": "Interior #64697",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64698",
+                            "name": "Cover #64698",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64699",
+                            "name": "Interior #64699",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64700",
+                            "name": "Cover #64700",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64701",
+                            "name": "Interior #64701",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64702",
+                            "name": "Cover #64702",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64703",
+                            "name": "Interior #64703",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64704",
+                            "name": "Cover #64704",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64705",
+                            "name": "Interior #64705",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64706",
+                            "name": "Cover #64706",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64707",
+                            "name": "Interior #64707",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64708",
+                            "name": "Cover #64708",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64709",
+                            "name": "Interior #64709",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64710",
+                            "name": "Cover #64710",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64711",
+                            "name": "Interior #64711",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64712",
+                            "name": "Cover #64712",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64713",
+                            "name": "Interior #64713",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64714",
+                            "name": "Cover #64714",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64715",
+                            "name": "Interior #64715",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015280/events",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2255/super_hero_squad?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1015280/super_hero_squad?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1009638,
+                "name": "Sunspot",
+                "description": "Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.",
+                "modified": "2011-07-14T14:28:50-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009638",
+                "comics":
+                {
+                    "available": 195,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009638/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23645",
+                            "name": "Astonishing Tales (2009) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23803",
+                            "name": "Astonishing Tales (2009) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23996",
+                            "name": "Astonishing Tales (2009) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24201",
+                            "name": "Astonishing Tales (2009) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24492",
+                            "name": "Astonishing Tales (2009) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50597",
+                            "name": "Avengers World (2014) #14"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7452",
+                            "name": "Cable (1993) #73"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7457",
+                            "name": "Cable (1993) #78"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20731",
+                            "name": "CLANDESTINE CLASSIC PREMIERE HC (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8552",
+                            "name": "Earth X (1999) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8553",
+                            "name": "Earth X (1999) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8556",
+                            "name": "Earth X (1999) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8550",
+                            "name": "Earth X (1999) #11"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4241",
+                            "name": "EARTH X TPB [NEW PRINTING] (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64879",
+                            "name": "Fallen Angels (1987) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64878",
+                            "name": "Fallen Angels (1987) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64877",
+                            "name": "Fallen Angels (1987) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64876",
+                            "name": "Fallen Angels (1987) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64875",
+                            "name": "Fallen Angels (1987) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64874",
+                            "name": "Fallen Angels (1987) #6"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "series":
+                {
+                    "available": 58,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009638/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6792",
+                            "name": "Astonishing Tales (2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18398",
+                            "name": "Avengers World (2014 - 2015)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1995",
+                            "name": "Cable (1993 - 2002)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3874",
+                            "name": "CLANDESTINE CLASSIC PREMIERE HC (2008)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/378",
+                            "name": "Earth X (1999 - 2000)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1806",
+                            "name": "EARTH X TPB [NEW PRINTING] (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23621",
+                            "name": "Fallen Angels (1987)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14764",
+                            "name": "Journey Into Mystery (2011 - 2013)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+                            "name": "Marvel Comics Presents (1988 - 1995)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3719",
+                            "name": "Marvel Fanfare (1982 - 1992)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1595",
+                            "name": "Marvel Visionaries: Chris Claremont (2005)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1430",
+                            "name": "MARVEL WEDDINGS TPB (2005)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16451",
+                            "name": "New Avengers (2013 - 2015)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20841",
+                            "name": "New Avengers (2015 - 2016)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/563",
+                            "name": "New Mutants (2003 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2055",
+                            "name": "New Mutants (1983 - 1991)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7455",
+                            "name": "New Mutants (2009 - 2012)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24008",
+                            "name": "New Mutants by Zeb Wells: The Complete Collection (2018)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1763",
+                            "name": "New Mutants Classic Vol. 1 (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1764",
+                            "name": "New Mutants Classic Vol. 2 (2007)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories":
+                {
+                    "available": 218,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009638/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1456",
+                            "name": "Ultimate X-Men (2001) #62",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1457",
+                            "name": "2 of 5 - Escape of Magneto",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1458",
+                            "name": "Ultimate X-Men (2001) #63",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1459",
+                            "name": "3 of 5 - Magnetic North",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1472",
+                            "name": "Ultimate X-Men (2001) #70",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1473",
+                            "name": "2 of 3 -",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1903",
+                            "name": "New Mutants (2003) #13",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1904",
+                            "name": "Interior #1904",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19847",
+                            "name": "Cover #19847",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19848",
+                            "name": "Performance",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19860",
+                            "name": "You Must Remember This",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19882",
+                            "name": "Cover #19882",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19883",
+                            "name": "The Adventures of Lockheed the Space Dragon and His Pet Girl, Kitty",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19884",
+                            "name": "The Saga of Storm: Goddess of Thunder",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19885",
+                            "name": "There's No Place Like Home",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/21408",
+                            "name": "Sunspot",
+                            "type": "pin-up"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/21550",
+                            "name": "The Road to Hel . . .",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/22304",
+                            "name": "Brotherhood",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/22306",
+                            "name": "Betrayal",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/22308",
+                            "name": "Capital Punishment",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009638/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+                            "name": "Age of Apocalypse"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+                            "name": "Atlantis Attacks"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+                            "name": "Dark Reign"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+                            "name": "Days of Future Present"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+                            "name": "Fatal Attractions"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                            "name": "Fear Itself"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+                            "name": "Mutant Massacre"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/336",
+                            "name": "Secret Empire"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+                            "name": "Secret Wars II"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+                            "name": "X-Men: Regenesis"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/280",
+                            "name": "X-Tinction Agenda"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2252/sunspot?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Sunspot?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009638/sunspot?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1009637,
+                "name": "Sunset Bain",
+                "description": "",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009637",
+                "comics":
+                {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009637/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37802",
+                            "name": "Iron Man (1998) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37772",
+                            "name": "Iron Man (1998) #12"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/19889",
+                            "name": "Iron Man (1998) #18"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/19890",
+                            "name": "Iron Man (1998) #19"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/19892",
+                            "name": "Iron Man (1998) #20"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/73297",
+                            "name": "Taskmaster (2002) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/73298",
+                            "name": "Taskmaster (2002) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/73299",
+                            "name": "Taskmaster (2002) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/73300",
+                            "name": "Taskmaster (2002) #4"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "series":
+                {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009637/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2572",
+                            "name": "Iron Man (1998 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/26433",
+                            "name": "Taskmaster (2002)"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories":
+                {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009637/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/42632",
+                            "name": "Sunset Intrigues (Machinery of War Part 1)",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/42634",
+                            "name": "\"Smart Weapons, Foolish Choices (Machinery of War Part 2)\"",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/42638",
+                            "name": "Cheating Death (Machinery of War Part 3)",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/83385",
+                            "name": "Spoils of War",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/83397",
+                            "name": "Trouble in Paradise",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/163273",
+                            "name": "cover from Taskmaster (2002) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/163275",
+                            "name": "cover from Taskmaster (2002) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/163277",
+                            "name": "cover from Taskmaster (2002) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/163279",
+                            "name": "cover from Taskmaster (2002) #4",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "events":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009637/events",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/1312/sunset_bain?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Bain,_Sunset?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009637/sunset_bain?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1010981,
+                "name": "Sunfire (Age of Apocalypse)",
+                "description": "During the beginning of Apocalypse's rise, Magneto approached Japan's greatest heroes, Sunfire and the Silver Samurai, and asked them to work with him and the X-Men to stop Apocalypse.",
+                "modified": "2014-05-01T15:09:00-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/53629baa391c6",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010981",
+                "comics":
+                {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010981/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17735",
+                            "name": "Astonishing X-Men (1995) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17737",
+                            "name": "Astonishing X-Men (1995) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17738",
+                            "name": "Astonishing X-Men (1995) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32578",
+                            "name": "Uncanny X-Force (2010) #12"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40018",
+                            "name": "Uncanny X-Force (2010) #12 (I Am Captain America Variant)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40102",
+                            "name": "Uncanny X-Force (2010) #12 (Kubert Variant)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4090",
+                            "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "series":
+                {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010981/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3619",
+                            "name": "Astonishing X-Men (1995)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+                            "name": "Uncanny X-Force (2010 - 2012)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1684",
+                            "name": "X-Men: The Complete Age of Apocalypse Epic Book 3 (2006)"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "stories":
+                {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010981/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37637",
+                            "name": "Once More With Feeling",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/37643",
+                            "name": "In Excess",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67709",
+                            "name": "Astonishing X-Men (1995) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/73562",
+                            "name": "Interior #73562",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90807",
+                            "name": "Interior #90807",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90992",
+                            "name": "Cover #90992",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "events":
+                {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010981/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+                            "name": "Age of Apocalypse"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1010981/sunfire_age_of_apocalypse?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Sunfire_(Age_of_Apocalypse)?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1010981/sunfire_age_of_apocalypse?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1009636,
+                "name": "Sunfire",
+                "description": "Shiro Yoshida’s mother was exposed to the atomic devastation of Hiroshima during World War II and died giving birth to him.",
+                "modified": "2014-05-01T15:08:48-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/53629b9e24ef5",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+                "comics":
+                {
+                    "available": 84,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009636/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5844",
+                            "name": "Avengers Assemble Vol. 4 (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7455",
+                            "name": "Cable (1993) #76"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7456",
+                            "name": "Cable (1993) #77"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8558",
+                            "name": "Earth X (1999) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8559",
+                            "name": "Earth X (1999) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8549",
+                            "name": "Earth X (1999) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8551",
+                            "name": "Earth X (1999) #12"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4241",
+                            "name": "EARTH X TPB [NEW PRINTING] (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16315",
+                            "name": "Exiles (2001) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16326",
+                            "name": "Exiles (2001) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16327",
+                            "name": "Exiles (2001) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16250",
+                            "name": "Exiles (2001) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16251",
+                            "name": "Exiles (2001) #11"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16254",
+                            "name": "Exiles (2001) #14"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16255",
+                            "name": "Exiles (2001) #15"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16257",
+                            "name": "Exiles (2001) #17"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1094",
+                            "name": "Exiles Vol. 3: Out of Time (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1056",
+                            "name": "Exiles Vol. II: A World Apart (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9623",
+                            "name": "Iron Man (1968) #67"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9624",
+                            "name": "Iron Man (1968) #68"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "series":
+                {
+                    "available": 38,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009636/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1816",
+                            "name": "Avengers Assemble Vol. 4 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1995",
+                            "name": "Cable (1993 - 2002)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/378",
+                            "name": "Earth X (1999 - 2000)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1806",
+                            "name": "EARTH X TPB [NEW PRINTING] (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/479",
+                            "name": "Exiles (2001 - 2008)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/154",
+                            "name": "Exiles Vol. 3: Out of Time (2003)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/116",
+                            "name": "Exiles Vol. II: A World Apart (1999)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+                            "name": "Iron Man (1968 - 1996)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+                            "name": "Marvel Comics Presents (1988 - 1995)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1440",
+                            "name": "MARVEL MASTERWORKS: THE UNCANNY X-MEN VOL. 2 HC (2005)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1689",
+                            "name": "Marvel Masterworks: The X-Men Vol.6 (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2049",
+                            "name": "Maximum Security (2000 - 2001)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2055",
+                            "name": "New Mutants (1983 - 1991)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/787",
+                            "name": "Official Handbook of the Marvel Universe (2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2059",
+                            "name": "Paradise X (2002 - 2003)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2431",
+                            "name": "Paradise X Vol. 1 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19639",
+                            "name": "S.H.I.E.L.D. (2014 - 2015)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23079",
+                            "name": "Secret Empire: United (2017)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15295",
+                            "name": "Shame Itself (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2989",
+                            "name": "Sub-Mariner (1968 - 1974)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories":
+                {
+                    "available": 95,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009636/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/666",
+                            "name": "X-MEN (2004) #184",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/672",
+                            "name": "X-MEN (2004) #187",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3425",
+                            "name": "Cover #3425",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3588",
+                            "name": "Cover #3588",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3592",
+                            "name": "Cover #3592",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3866",
+                            "name": "Cover #3866",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4153",
+                            "name": "Cover #4153",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4223",
+                            "name": "Cover #4223",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4430",
+                            "name": "Cover #4430",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4513",
+                            "name": "Cover #4513",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4612",
+                            "name": "Cover #4612",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4614",
+                            "name": "Cover #4614",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15418",
+                            "name": "Side-By-Side With Sun-Fire !",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15420",
+                            "name": "Make Way For Moses Magnum!",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15608",
+                            "name": "Uncanny X-Men (1963) #64",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15609",
+                            "name": "The Coming of Sunfire!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15690",
+                            "name": "Uncanny X-Men (1963) #94",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15691",
+                            "name": "The Doomsmith Scenario!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19727",
+                            "name": "Return of the Freak",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/19729",
+                            "name": "Night of the Rising Sun!",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009636/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+                            "name": "Age of Apocalypse"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+                            "name": "Fatal Attractions"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+                            "name": "Maximum Security"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/336",
+                            "name": "Secret Empire"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+                            "name": "Secret Wars"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+                            "name": "X-Men: Regenesis"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2250/sunfire?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Sunfire_%28Shiro_Yoshida%29?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009636/sunfire?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1009635,
+                "name": "Sumo",
+                "description": "",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009635",
+                "comics":
+                {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009635/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/70319",
+                            "name": "Master of Kung Fu (1974) #46"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18038",
+                            "name": "X-Force (1991) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18060",
+                            "name": "X-Force (1991) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17943",
+                            "name": "X-Force (1991) #10"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "series":
+                {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009635/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24265",
+                            "name": "Master of Kung Fu (1974 - 1979)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+                            "name": "X-Force (1991 - 2004)"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories":
+                {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009635/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/38168",
+                            "name": "Answers (and Questions)",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/38362",
+                            "name": "X-Tenuating Circumstances",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/38411",
+                            "name": "X-Tenuating Circumstances [Part 2]",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/156421",
+                            "name": "cover from Master of Kung Fu (1974) #46",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "events":
+                {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009635/events",
+                    "items":
+                    [],
+                    "returned": 0
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/2247/sumo?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009635/sumo?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1011212,
+                "name": "Sugar Man",
+                "description": "The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse.",
+                "modified": "2013-11-01T16:50:49-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/527413a2480b5",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011212",
+                "comics":
+                {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011212/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52068",
+                            "name": "Magneto (2014) #19"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36499",
+                            "name": "New Mutants (2009) #27"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40011",
+                            "name": "New Mutants (2009) #27 (I Am Captain America Variant)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36505",
+                            "name": "New Mutants (2009) #28"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "series":
+                {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011212/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18407",
+                            "name": "Magneto (2014 - 2015)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7455",
+                            "name": "New Mutants (2009 - 2012)"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories":
+                {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011212/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81027",
+                            "name": "NEW MUTANTS (2009) #27",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81040",
+                            "name": "Interior #81040",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90793",
+                            "name": "Interior #90793",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115713",
+                            "name": "cover from Magneto (2014) #19",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "events":
+                {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011212/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+                            "name": "Secret Wars (2015)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1011212/sugar_man?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Sugar_Man_(Age_of_Apocalypse)?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1011212/sugar_man?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1009631,
+                "name": "Sue Storm",
+                "description": "",
+                "modified": "2013-10-24T13:41:17-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52695b9cd40b6",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009631",
+                "comics":
+                {
+                    "available": 40,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009631/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12826",
+                            "name": "Captain America (2002) #18"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/359",
+                            "name": "Captain America (2002) #19"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/280",
+                            "name": "Captain America (2002) #20"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46026",
+                            "name": "Dark Avengers (2012) #186"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46030",
+                            "name": "Dark Avengers (2012) #190"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24858",
+                            "name": "Dark Reign: Zodiac (2009) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13216",
+                            "name": "Fantastic Four (1961) #39"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15906",
+                            "name": "Fantastic Four Omnibus Vol. 2 (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/95",
+                            "name": "Ultimate Fantastic Four (2003) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/159",
+                            "name": "Ultimate Fantastic Four (2003) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/158",
+                            "name": "Ultimate Fantastic Four (2003) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/449",
+                            "name": "Ultimate Fantastic Four (2003) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/503",
+                            "name": "Ultimate Fantastic Four (2003) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/686",
+                            "name": "Ultimate Fantastic Four (2003) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/716",
+                            "name": "Ultimate Fantastic Four (2003) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/744",
+                            "name": "Ultimate Fantastic Four (2003) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/574",
+                            "name": "Ultimate Fantastic Four (2003) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/776",
+                            "name": "Ultimate Fantastic Four (2003) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3142",
+                            "name": "Ultimate Fantastic Four (2003) #26"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3478",
+                            "name": "Ultimate Fantastic Four (2003) #27"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "series":
+                {
+                    "available": 16,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009631/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/485",
+                            "name": "Captain America (2002 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/789",
+                            "name": "Dark Avengers (2012 - 2013)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7696",
+                            "name": "Dark Reign: Zodiac (2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+                            "name": "Fantastic Four (1961 - 1998)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2435",
+                            "name": "Fantastic Four Omnibus Vol. 2 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13827",
+                            "name": "Fear Itself: The Worthy (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/702",
+                            "name": "Ultimate Fantastic Four (2003 - 2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1211",
+                            "name": "Ultimate Fantastic Four Vol. 1: The Fantastic (2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1212",
+                            "name": "Ultimate Fantastic Four Vol. 1: The Fantastic (2005)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1244",
+                            "name": "Ultimate Fantastic Four Vol. 2: Doom (2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1520",
+                            "name": "ULTIMATE FANTASTIC FOUR VOL. 5: CROSSOVER TPB (2006)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+                            "name": "Ultimate Spider-Man (2000 - 2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2692",
+                            "name": "Ultimate Spider-Man Vol. 17: Clone Saga (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6182",
+                            "name": "Ultimatum (2008 - 2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2085",
+                            "name": "Universe X (2000 - 2001)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9906",
+                            "name": "X-Men (2010 - 2013)"
+                        }
+                    ],
+                    "returned": 16
+                },
+                "stories":
+                {
+                    "available": 59,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009631/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1403",
+                            "name": "7 of 8 - The Clone Saga",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1405",
+                            "name": "8 of 8 - The Clone Saga",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1500",
+                            "name": "Interior #1500",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1836",
+                            "name": "Ultimate Fantastic Four (2003) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1837",
+                            "name": "Interior #1837",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2124",
+                            "name": "Ultimate Fantastic Four (2003) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2125",
+                            "name": "Interior #2125",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2426",
+                            "name": "Ultimate Fantastic Four (2003) #2 ",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2427",
+                            "name": "Interior #2427",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2637",
+                            "name": "Ultimate Fantastic Four (2003) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2638",
+                            "name": "Interior #2638",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2639",
+                            "name": "Ultimate Fantastic Four (2003) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2640",
+                            "name": "Interior #2640",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2641",
+                            "name": "Ultimate Fantastic Four (2003) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2642",
+                            "name": "Interior #2642",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2643",
+                            "name": "Ultimate Fantastic Four (2003) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2644",
+                            "name": "Interior #2644",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2645",
+                            "name": "Ultimate Fantastic Four (2003) #7",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2646",
+                            "name": "Interior #2646",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2647",
+                            "name": "Ultimate Fantastic Four (2003) #8",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009631/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+                            "name": "Dark Reign"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/3402/sue_storm?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009631/sue_storm?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            },
+            {
+                "id": 1010791,
+                "name": "Sub-Mariner",
+                "description": "Prince Namor is the half-human/half-Atlantean ruler of Atlantis.",
+                "modified": "2013-09-27T16:50:47-0400",
+                "thumbnail":
+                {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5245ef8c83126",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+                "comics":
+                {
+                    "available": 565,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010791/comics",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24371",
+                            "name": "All Winners Comics 70th Anniversary Special (2009) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12555",
+                            "name": "All-Winners Comics (1941) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12566",
+                            "name": "All-Winners Comics (1941) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12568",
+                            "name": "All-Winners Comics (1941) #3"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12569",
+                            "name": "All-Winners Comics (1941) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12570",
+                            "name": "All-Winners Comics (1941) #5"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12571",
+                            "name": "All-Winners Comics (1941) #6"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12572",
+                            "name": "All-Winners Comics (1941) #7"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12573",
+                            "name": "All-Winners Comics (1941) #8"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12574",
+                            "name": "All-Winners Comics (1941) #9"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12556",
+                            "name": "All-Winners Comics (1941) #10"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12557",
+                            "name": "All-Winners Comics (1941) #11"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12558",
+                            "name": "All-Winners Comics (1941) #12"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12559",
+                            "name": "All-Winners Comics (1941) #13"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12560",
+                            "name": "All-Winners Comics (1941) #14"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29736",
+                            "name": "All-Winners Squad: Band of Heroes (2011) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12700",
+                            "name": "Alpha Flight (1983) #39"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17490",
+                            "name": "Avengers (1998) #1"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17501",
+                            "name": "Avengers (1998) #2"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17512",
+                            "name": "Avengers (1998) #3"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "series":
+                {
+                    "available": 175,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010791/series",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7534",
+                            "name": "All Winners Comics 70th Anniversary Special (2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2114",
+                            "name": "All-Winners Comics (1941 - 1947)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9865",
+                            "name": "All-Winners Squad: Band of Heroes (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+                            "name": "Alpha Flight (1983 - 1994)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                            "name": "Avengers (1963 - 1996)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+                            "name": "Avengers (1998 - 2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+                            "name": "Avengers Assemble (2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1816",
+                            "name": "Avengers Assemble Vol. 4 (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24084",
+                            "name": "Avengers Epic Collection: The Collection Obsession (2018)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2111",
+                            "name": "Avengers Forever (1998 - 1999)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/93",
+                            "name": "Avengers Legends Vol. I: Avengers Forever (2002)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/158",
+                            "name": "Avengers Vol. 1: World Trust (2003)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1262",
+                            "name": "Avengers Vol. 5: Once an Invader (2004)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15305",
+                            "name": "Avengers Vs. X-Men (2012)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4864",
+                            "name": "Avengers/Invaders (2008 - 2009)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/784",
+                            "name": "Black Panther (2005 - 2008)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6804",
+                            "name": "Black Panther (2009 - 2010)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2226",
+                            "name": "Black Panther: Civil War (2007)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+                            "name": "Captain America (2004 - 2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16325",
+                            "name": "Captain America and Bucky (2011 - 2012)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories":
+                {
+                    "available": 790,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010791/stories",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3099",
+                            "name": "1 of 5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3463",
+                            "name": "3 of 3 - Sentry",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3469",
+                            "name": "4 of 4 - Sentry",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3846",
+                            "name": "5 of 5 - Bride of the Panther",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3848",
+                            "name": "Cover #3848",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3854",
+                            "name": "2 of 4 - World Tour",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4223",
+                            "name": "Cover #4223",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4235",
+                            "name": "Cover: Captain America (2004) #5 of 8 - Out of Time",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4236",
+                            "name": "5 of 8 - Out of Time",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4240",
+                            "name": "1 of 1 - Nomad",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4246",
+                            "name": "House of M tie-in",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5419",
+                            "name": "FANTASTIC FOUR: THE END (2006) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5874",
+                            "name": "Cover #5874",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5882",
+                            "name": "Cover #5882",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6238",
+                            "name": "1 of 5 - 5XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7835",
+                            "name": "ONSLAUGHT REBORN (2006) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7906",
+                            "name": "2 of 5 - 5 XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8689",
+                            "name": "3 of 5 - 5XLS - Secret Wars",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8824",
+                            "name": "[Origin of the Sub-Mariner]",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8829",
+                            "name": "Cover #8829",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events":
+                {
+                    "available": 14,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010791/events",
+                    "items":
+                    [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+                            "name": "Acts of Vengeance!"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+                            "name": "Age of X"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+                            "name": "Atlantis Attacks"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+                            "name": "Avengers VS X-Men"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+                            "name": "Civil War"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+                            "name": "Dark Reign"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                            "name": "Fear Itself"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+                            "name": "House of M"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+                            "name": "Initiative"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+                            "name": "Maximum Security"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+                            "name": "Shattered Heroes"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/276",
+                            "name": "War of Kings"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+                            "name": "X-Men: Regenesis"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/306",
+                            "name": "X-Men: Schism"
+                        }
+                    ],
+                    "returned": 14
+                },
+                "urls":
+                [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1010791/sub-mariner?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Sub-Mariner?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1010791/sub-mariner?utm_campaign=apiRef&utm_source=2b18e934f6e7d5813b200c31a06ea299"
+                    }
+                ]
+            }
+        ]
+    }
+}

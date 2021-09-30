@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarvelViewer - NSManagedObjectDeletable</title>
+    <link rel="stylesheet" type="text/css" href="https://spnkr.github.io/marvel-wip/all.css" media="all" />
+</head>
+<body>
+    <header>
+        <a href="https://spnkr.github.io/marvel-wip/">
+            <strong>
+                MarvelViewer
+            </strong>
+            <span>Documentation</span>
+        </a>
+    </header>
+
+    <!--
+    <form class="search">
+        <input type="search" placeholder="Search" />
+    </form>
+    -->
+
+    <nav>
+        <div class="wrapper">
+            <h2>On This Page</h2>
+            <ol><li><a href="#default implementations">Default Implementations</a><ul><li class="function"><a href="#nsmanagedobjectdeletable.destroyall(context:)">destroy​All(context:​)</a></li></ul></li><li><a href="#requirements">Requirements</a><ul><li class="function"><a href="#nsmanagedobjectdeletable.destroyall(context:)">destroy​All(context:​)</a></li></ul></li></ol>
+        </div>
+    </nav>
+
+    <main>
+        <article>
+            <h1>
+    <small>Protocol</small>
+    <code class="name">NSManaged​Object​Deletable</code>
+</h1>
+
+<div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">protocol</span> <span class="type">NSManagedObjectDeletable</span>  </body></html></code></pre>
+</div>
+
+    <section id="default implementations">
+        <h2>Default Implementations</h2>
+
+        <div role="article" class="function" id="nsmanagedobjectdeletable.destroyall(context:)">
+    <h3>
+        <code><a href="#nsmanagedobjectdeletable.destroyall(context:)">destroy​All(context:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">static</span> <span class="keyword">func</span> <span class="function">destroyAll</span>(<span class="variable">context</span>: <span class="type">NSManagedObjectContext</span> = <span class="variable">DataStore</span>.<span class="variable">shared</span>.<span class="variable">backgroundContext</span>) </body></html></code></pre>
+</div>
+</div>
+    </section>
+
+
+    <section id="requirements">
+        <h2>Requirements</h2>
+
+        <div role="article" class="function" id="nsmanagedobjectdeletable.destroyall(context:)">
+    <h3>
+        <code>destroy​All(context:​)</code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">static</span> <span class="keyword">func</span> <span class="function">destroyAll</span>(<span class="variable">context</span>: <span class="type">NSManagedObjectContext</span>) </body></html></code></pre>
+</div>
+</div>
+    </section>
+        </article>
+    </main>
+
+    <footer>
+        <p>
+    Generated on <time datetime="2021-09-30T00:12:58-0400">September 30, 2021</time> using <a href="https://github.com/SwiftDocOrg/swift-doc">swift-doc</a> <span class="version">1.0.0-rc.1</span>.
+</p>
+    </footer>
+</body>
+</html>

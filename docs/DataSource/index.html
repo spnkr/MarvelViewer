@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarvelViewer - DataSource</title>
+    <link rel="stylesheet" type="text/css" href="https://spnkr.github.io/marvel-wip/all.css" media="all" />
+</head>
+<body>
+    <header>
+        <a href="https://spnkr.github.io/marvel-wip/">
+            <strong>
+                MarvelViewer
+            </strong>
+            <span>Documentation</span>
+        </a>
+    </header>
+
+    <!--
+    <form class="search">
+        <input type="search" placeholder="Search" />
+    </form>
+    -->
+
+    <nav>
+        <div class="wrapper">
+            <h2>On This Page</h2>
+            <ol><li><a href="#initializers">Initializers</a><ul><li class="initializer"><a href="#datasource.init(namestartswith:tableview:delegate:)">init(name​Starts​With:​table​View:​delegate:​)</a></li></ul></li><li><a href="#properties">Properties</a><ul><li class="variable"><a href="#datasource.datasource">data​Source</a></li><li class="variable"><a href="#datasource.fetchedresultscontroller">fetched​Results​Controller</a></li><li class="variable"><a href="#datasource.search">search</a></li></ul></li><li><a href="#methods">Methods</a><ul><li class="function"><a href="#datasource.performfetch()">perform​Fetch()</a></li></ul></li></ol>
+        </div>
+    </nav>
+
+    <main>
+        <article>
+            <h1>
+    <small>Class</small>
+    <code class="name">Data​Source</code>
+</h1>
+
+<div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">class</span> <span class="type">DataSource</span>  </body></html></code></pre>
+</div>
+<div class="summary" role="doc-abstract">
+    <p>Source for UITableView. Handles DiffableDataSource + NSFetchedResultsController implementation.</p>
+
+</div>
+
+    <section id="initializers">
+        <h2>Initializers</h2>
+
+        <div role="article" class="initializer" id="datasource.init(namestartswith:tableview:delegate:)">
+    <h3>
+        <code><a href="#datasource.init(namestartswith:tableview:delegate:)">init(name​Starts​With:​table​View:​delegate:​)</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">init</span>(<span class="variable">nameStartsWith</span>: <span class="type">String</span>?, <span class="variable">tableView</span>: <span class="type">UITableView</span>, <span class="variable">delegate</span>: <span class="type">NSFetchedResultsControllerDelegate</span>)  </body></html></code></pre>
+</div>
+</div>
+    </section>
+    <section id="properties">
+        <h2>Properties</h2>
+
+        <div role="article" class="variable" id="datasource.datasource">
+    <h3>
+        <code><a href="#datasource.datasource">data​Source</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">var</span> <span class="variable">dataSource</span>: <span class="type">UITableViewDiffableDataSource</span>&lt;<span class="type">Int</span>, <span class="type">NSManagedObjectID</span>&gt;? </body></html></code></pre>
+</div>
+</div>
+<div role="article" class="variable" id="datasource.fetchedresultscontroller">
+    <h3>
+        <code><a href="#datasource.fetchedresultscontroller">fetched​Results​Controller</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">var</span> <span class="variable">fetchedResultsController</span>: <span class="type">NSFetchedResultsController</span>&lt;<a href="https://spnkr.github.io/marvel-wip/Character"><span class="type">Character</span></a>&gt;? </body></html></code></pre>
+</div>
+</div>
+<div role="article" class="variable" id="datasource.search">
+    <h3>
+        <code><a href="#datasource.search">search</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">var</span> <span class="variable">search</span>: <a href="https://spnkr.github.io/marvel-wip/Search"><span class="type">Search</span></a>? </body></html></code></pre>
+</div>
+</div>
+    </section>
+    <section id="methods">
+        <h2>Methods</h2>
+
+        <div role="article" class="function" id="datasource.performfetch()">
+    <h3>
+        <code><a href="#datasource.performfetch()">perform​Fetch()</a></code>
+    </h3>
+    <div class="declaration">
+<pre class="highlight"><code><html><body><span class="keyword">func</span> <span class="function">performFetch</span>()  </body></html></code></pre>
+</div>
+</div>
+    </section>
+
+
+
+        </article>
+    </main>
+
+    <footer>
+        <p>
+    Generated on <time datetime="2021-09-30T00:13:00-0400">September 30, 2021</time> using <a href="https://github.com/SwiftDocOrg/swift-doc">swift-doc</a> <span class="version">1.0.0-rc.1</span>.
+</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Image references" minToolsVersion="12.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ListFooter" customModule="MarvelViewer" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="57"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="medium" translatesAutoresizingMaskIntoConstraints="NO" id="k9D-Ob-RVS">
+                    <rect key="frame" x="197" y="18.5" width="20" height="20"/>
+                </activityIndicatorView>
+                <button hidden="YES" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J3k-8P-nw5">
+                    <rect key="frame" x="129" y="6" width="157" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="WaC-7H-LGP"/>
+                        <constraint firstAttribute="width" constant="157" id="i5g-Qn-Abc"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="tinted" title=" Load more">
+                        <imageReference key="image" image="arrow.clockwise" catalog="system" symbolScale="small"/>
+                        <fontDescription key="titleFontDescription" type="system" pointSize="14"/>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="loadMore" destination="iN0-l3-epB" eventType="touchUpInside" id="Zcj-eU-Nva"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="k9D-Ob-RVS" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="2E6-JE-Bow"/>
+                <constraint firstItem="J3k-8P-nw5" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="44e-gs-azH"/>
+                <constraint firstItem="k9D-Ob-RVS" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="ACv-73-Lw5"/>
+                <constraint firstItem="J3k-8P-nw5" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="12" id="eHS-Fz-On0"/>
+                <constraint firstItem="J3k-8P-nw5" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="hHW-Hq-qs4"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="J3k-8P-nw5" secondAttribute="bottom" constant="12" id="jVj-nW-Dsq"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="loadMoreButton" destination="J3k-8P-nw5" id="RXG-Eo-IPN"/>
+                <outlet property="spinner" destination="k9D-Ob-RVS" id="AXJ-Zh-0F6"/>
+            </connections>
+            <point key="canvasLocation" x="111.59420289855073" y="47.209821428571423"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="arrow.clockwise" catalog="system" width="115" height="128"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
